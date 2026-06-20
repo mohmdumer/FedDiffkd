@@ -96,4 +96,4 @@ If you use this code in your work, please cite the thesis or the associated pape
 
 ## License
 
-Add a license file before publishing the repository publicly.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
